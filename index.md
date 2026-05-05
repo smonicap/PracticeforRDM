@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
 
-#### Courses to take *Fall* Semester
+### Courses to take *Fall* Semester
 
 1. Bio 2EE3
   - intro to ***microbiology***
