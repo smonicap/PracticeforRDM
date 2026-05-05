@@ -15,4 +15,4 @@ nav_order: 1
 |----------- | -------- |
 | ?/5        | Biology  |
 | ?/5        | Chemistry |
-
+| 7/5.       | IDK.     |
