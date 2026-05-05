@@ -1,5 +1,5 @@
 ---
-title: <Taken> 
+title: Taken 
 layout: default
 nav_order: 2
 ---
