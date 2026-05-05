@@ -1,7 +1,7 @@
-##### Courses to take *Fall* Semester
+#### Courses to take *Fall* Semester
 
 1. Bio 2EE3
-  - intro to __* microbiology *__
+  - intro to ***microbiology***
 2. Orgo 1OA3
   - organic chemistry I
 
