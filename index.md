@@ -1,5 +1,5 @@
 ---
-title: <To Take> 
+title: <To Take 2026> 
 layout: default
 nav_order: 1
 ---
