@@ -1,5 +1,5 @@
 ---
-title: <enter your title here> 
+title: <To Take> 
 layout: default
 nav_order: 1
 ---
@@ -17,7 +17,7 @@ nav_order: 1
 | ?/5        | Chemistry |
 
 ---
-title: <enter your title here> 
+title: <Taken> 
 layout: default
 nav_order: 2
 ---
